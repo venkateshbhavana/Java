@@ -1,0 +1,4 @@
+work
+
+
+1.do 3 or 4 programs using operations local variables concept.

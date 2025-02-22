@@ -1,4 +1,4 @@
-/* 2.Create a java application where we two interfaces with individual abstract and defined method with parameter and return type, one abstract class which contains single parameterized constructor, one abstract and defined method with parameter and return type then inherit all these at a time in to one concrete class provide functionality for abstract methods then invoke all the properties under main method by providing dynamic inputs. */
+/* 2.Create a java application where we have two interfaces with individual abstract and defined method with parameter and return type, one abstract class which contains single parameterized constructor, one abstract and defined method with parameter and return type then inherit all these at a time in to one concrete class provide functionality for abstract methods then invoke all the properties under main method by providing dynamic inputs. */
 
 
 import java.util.*;
